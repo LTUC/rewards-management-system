@@ -19,23 +19,40 @@ A simple crud application for recording and claiming rewards granted to students
 
 Stakeholder - Dario Thornhill
 
-Product Owner - Aishah
+Product Owner - Aishah - Responsible for product outcome
 
-Quality Assurance Engineer - Hadi
+Quality Assurance Engineer - Hadi - Responible for ensuring that any feature that makes it into the product meet's the accetpance criteria
 
-User Experience Engineer and User Interface Designer - Rania
+User Experience Engineer and User Interface Designer - Rania - Responsible for creating a clean modern user interface which supports a delightful user experience
 
-Frontend Engineer - Ahmad
+Frontend Engineer - Ahmad - Responsible for implementing the UI using best practices and clean reusable code
 
-Backend Developer - Emad
+Backend Developer - Emad - Responsible for implementing the data model and providing secure, tested api endpoints to support feature requests
 
 ## Software Development Life Cycle
 
 The team will learn and apply Agile Software Development practices. 
 Work will be undertaken in weekly units known as "Sprints". 
 Deliverables are due each Thursday to be demoed infront of the stakeholder "as is" for his feedback in a "Review" session. 
-### Daily Meetings 
-- Stand Up 10 mins maximum
+The phases of a sprint will be as follows:
+
+- Sprint Planning
+- Start of Sprint
+- Daily Standups
+- Daily Backlog Grooming
+- End of Sprint
+- Sprint Review
+- Sprint Retro
+
+
+
+### Regular Meetings 
+- Sprint Planning
+  - Decide which subset of the 'Ready' ticket will be in the work queue for the upcoming week. The work queue for the upcoming sprint is called the "Sprint Backlog"
+    - Pay attention to how many points are in a sprint
+    - Pay attention to how many points are assigned to an individual
+    - Keep in mind there is no separate point allocation for testing but the difficulty can vary
+- Stand Up 10 mins maximum, daily at 10:30am
   - What was done previous work day
   - What will be worked on today
   - Any blockers. 
@@ -43,6 +60,13 @@ Deliverables are due each Thursday to be demoed infront of the stakeholder "as i
 - Backlog Grooming
   - Each day the development team will meet to discuss ticket to add more detail to each ticket to make ot super clear, i mean fool-proof.
   - set a fixed time try to complete at least 1 ticket each session its better if you can do more.
+- Sprint Review
+  - Demo the product and its new feature to the stakeholder
+  - Record feeback and discuss in the upcoming session incase this feedback affects the backlog
+- Sprint Retro
+  -   Dev team only meeting (no stinky stakeholder present)
+  -   Discuss what went well during the sprint weeek
+  -   What did not go well and what needs to change to avoid this recurring.
 
 ### Definitions
 - Ready
@@ -62,3 +86,12 @@ Deliverables are due each Thursday to be demoed infront of the stakeholder "as i
   - The feature passes all automated tests on staging
   - The feature passes all acceptance criteria on staging
   - The feature is deployed to production
+
+
+Resources:
+ -  [Project Management](https://trello.com/b/S5HR9UCm/rewards-management-system)
+ -  [Backend Repo](https://github.com/LTUC/rewards-management-system-api)
+ -  [Backend Deployment](https://prizes-app.herokuapp.com/)
+ -  [Frontend Repo](https://github.com/LTUC/rewards-management-system-ui)
+ -  [Frontend Depoyment]
+
