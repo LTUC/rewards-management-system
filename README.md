@@ -94,4 +94,5 @@ Resources:
  -  [Backend Deployment](https://prizes-app.herokuapp.com/)
  -  [Frontend Repo](https://github.com/LTUC/rewards-management-system-ui)
  -  [Frontend Depoyment]
+ -  [Wirefreme](https://www.figma.com/file/sZ8pLGzjAu3SYDVXtHkLdg/prizes)
 
