@@ -21,13 +21,13 @@ Stakeholder - Dario Thornhill
 
 Product Owner - Aishah - Responsible for product outcome
 
-Quality Assurance Engineer - Hadi - Responible for ensuring that any feature that makes it into the product meet's the accetpance criteria
+Quality Assurance Engineer -  Dario Thornhill - Responible for ensuring that any feature that makes it into the product meet's the accetpance criteria
 
 User Experience Engineer and User Interface Designer - Rania - Responsible for creating a clean modern user interface which supports a delightful user experience
 
-Frontend Engineer - Ahmad - Responsible for implementing the UI using best practices and clean reusable code
+Frontend Engineer - Hadi - Responsible for implementing the UI using best practices and clean reusable code
 
-Backend Developer - Emad - Responsible for implementing the data model and providing secure, tested api endpoints to support feature requests
+Backend Developer - Ahmad - Responsible for implementing the data model and providing secure, tested api endpoints to support feature requests
 
 ## Software Development Life Cycle
 
